@@ -1,4 +1,4 @@
-# Sokoban-21-February-7-March
+# Sokoban
 
 Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in which
 the player pushes boxes or crates around in a warehouse, trying to get them to
