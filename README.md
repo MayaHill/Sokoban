@@ -29,7 +29,7 @@ This project contains two different versions, one using the ncurses library and 
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/Sokoban-21-February-7-March.git
+    git clone https://github.com/MayaHill/Sokoban.git
 
 Install CSFML
 
